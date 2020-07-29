@@ -1,23 +1,9 @@
-### Hi there 👋
-
-<!--
-**ProdigySim/ProdigySim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 🙃 Hi I wrote code and I like typescript
 
 🤔 These are my 2 favorite emoji I think
+
+I used to do reverse engineering and write code for L4D2 competitive servers. It was really fun. Most of my public repos are these.
+
+Now I do full stack engineering with a focus on security and developer tools. I really like TypeScript, and I think React is pretty smart too.
 
 ![neat.gif](https://i.imgur.com/D871ppY.gif)
