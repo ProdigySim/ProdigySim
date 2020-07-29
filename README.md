@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🙃 Hi I wrote code and I like typescript
+
+🤔 These are my 2 favorite emoji I think
+
+![neat.gif](https://i.imgur.com/D871ppY.gif)
